@@ -1,5 +1,6 @@
 # React + TypeScript + Vite
 
+```
 ├── public/                  # 정적파일 (favicon, 이미지 등)
 ├── src/
 │   ├── api/                 # 백엔드 통신 관련 함수 (axios, fetch 등)
@@ -12,3 +13,4 @@
 │   ├── App.tsx              # 최상위 컴포넌트 (라우터 포함)
 │   ├── main.tsx             # ReactDOM.render 등 진입점
 │   └── index.css            # 글로벌 스타일 (Tailwind 포함 가능)
+```
